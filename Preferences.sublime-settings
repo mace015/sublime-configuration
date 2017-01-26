@@ -1,0 +1,17 @@
+{
+	"close_windows_when_empty": true,
+	"font": "Fira Code",
+	"font_size": 12,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"margin": 5,
+	"theme": "Agila Light.sublime-theme",
+    "color_scheme": "Packages/Agila Theme/Agila Light Solarized.tmTheme",
+    "caret_style": "phase",
+    "highlight_line": true,
+    "line_padding_bottom": 5,
+  	"line_padding_top": 5,
+  	"bold_folder_labels": true,
+}
